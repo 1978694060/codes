@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/'
+let g:netrw_dirhist_2='/usr/local/etc'
+let g:netrw_dirhist_3='/usr/ports/shells/tcshrc'
+let g:netrw_dirhist_4='/usr/ports/games'
+let g:netrw_dirhist_5='/usr/ports/sysutils'
